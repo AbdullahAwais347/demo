@@ -3,3 +3,6 @@ This is also written in branch Main
 This is a paragraph
 This line recognize feature1
 This line also recognize feature1
+This is feature2.
+This is also feature2.
+This is feature 2 commit.
