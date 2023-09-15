@@ -1,2 +1,4 @@
 This is feature3
+This is another line of feature 3.
+
 
